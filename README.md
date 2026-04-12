@@ -6,7 +6,7 @@
 ## An embedded capacitive touch detection system using the TTP223 touch sensor module for digital input interfacing and structured event-based control logic.
 
 ---
-
+ 
 ## 🚀 Project Overview
 
 This project demonstrates digital touch detection using the TTP223 capacitive touch sensor and Arduino (Uno R4 recommended).
