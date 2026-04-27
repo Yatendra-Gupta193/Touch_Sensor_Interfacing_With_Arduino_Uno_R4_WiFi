@@ -3,7 +3,7 @@
 // Pin initialization 
 int touchPin = 2;   // Touch sensor OUT pin
 int ledPin = 13;    // LED pin
-
+ 
 void setup() {
    // write your initialization code here
    pinMode(touchPin, INPUT);
