@@ -1,4 +1,4 @@
-#  Embedded Touch Detection System – TTP223
+#  Embedded Touch Detection System – TTP223 
 
 ![Platform](https://img.shields.io/badge/platform-Arduino-orange)
 ![Language](https://img.shields.io/badge/language-C++-blue)
